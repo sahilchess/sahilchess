@@ -7,7 +7,6 @@
 </p>
 
 ### What I'm working on
-- [Hacklet](https://github.com/SkyfallWasTaken/snowvault), a password manager built with Iced and Rust
 - [The Jouney](https://journey.hackclub.com/projects/41), THE JOURNEY A 10 day journey into making!
 
 ---
