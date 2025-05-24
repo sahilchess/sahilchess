@@ -15,3 +15,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sahilchess&show_icons=true&theme=radical&layout=compact" height="166px" alt="My GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchess&theme=radical&layout=compact&hide=vue,css,html,ejs" alt="The top languages that I use"/>
 </div>
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=sahilchess&show_icons=true&theme=radical&layout=compact" height="166px](https://github-readme-stats.hackclub.dev/api/wakatime?username=814&api_domain=hackatime.hackclub.com&theme=cobalt&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)" alt="My Hakatime stats"/>
+
+</div>
