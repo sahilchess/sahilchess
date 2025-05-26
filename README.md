@@ -7,7 +7,7 @@
 </p>
 
 ### What I'm working on
-- [The Jouney](https://journey.hackclub.com/projects/41), THE JOURNEY A 10 day journey into making!
+- [The Jouney](https://journey.hackclub.com/projects/41), THE JOURNEY A 3 week journey into making!
 
 ---
 
