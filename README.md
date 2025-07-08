@@ -7,9 +7,10 @@
 </p>
 
 ### What I'm working on
-- [The Jouney](https://journey.hackclub.com/projects/41), THE JOURNEY A 3 week journey into making!
 
----
+- [The Summer Of Making](https://summer.hackclub.com/), THE JOURNEY A 3 week journey into making!
+    - [Everyday App OS](https://summer.hackclub.com/projects/5193)
+    - [Road to 1100](https://summer.hackclub.com/projects/5299)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilchess&show_icons=true&theme=radical&layout=compact" height="166px" alt="My GitHub stats"/>
