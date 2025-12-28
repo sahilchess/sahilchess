@@ -5,9 +5,9 @@
   <a href="https://journey.hackclub.com/projects/41">Journey</a> •
   <a href="https://scrapbook.hackclub.com/Sahil">Scrapbook</a>
 </p>
-
-### What I'm working on
 <!--
+### What I'm working on
+--
 - [The Summer Of Making](https://summer.hackclub.com/), THE JOURNEY A 3 week journey into making!
     - [Everyday App OS](https://summer.hackclub.com/projects/5193)
     - [Road to 1100](https://summer.hackclub.com/projects/5299)
