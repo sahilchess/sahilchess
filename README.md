@@ -18,6 +18,7 @@ im a hacker at [hack club](https://hackclub.com) building stuff at the intersect
 <img src="https://skillicons.dev/icons?i=python" width="80" height="80" />
 <img src="https://skillicons.dev/icons?i=godot" width="80" height="80" />
 <img src="https://skillicons.dev/icons?i=cpp" width="80" height="80" />
+<img src="https://skillicons.dev/icons?i=htmx" width="80" height="80" />
 <img src="https://skillicons.dev/icons?i=html" width="80" height="80" />
 <img src="https://skillicons.dev/icons?i=css" width="80" height="80" />
 <img src="https://skillicons.dev/icons?i=vscode" width="80" height="80" />
